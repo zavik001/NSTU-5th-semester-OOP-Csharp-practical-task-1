@@ -1,2 +1,3 @@
-# practical-task-1-on-OOP-NETI-5th-semester-
-C#
+# Practical Task 1 on OOP-С# NETI 5th Semester
+
+## PersonApp
